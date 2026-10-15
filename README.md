@@ -144,18 +144,6 @@ CALCULATE(
 
 ---
 
-## 📂 Estrutura do repositório
-
-```
-📁 Relatorio-de-Vendas-2025
- ┣ 📄 Relatorio_de_Vendas_2025.pbix
- ┣ 📁 dados
- ┃  ┗ 📄 base_cotacoes.xlsx
- ┣ 📁 imagens
- ┗ 📄 README.md
-```
----
-
 ## 👤 Autor
 
 **Raphael Pinheiro** · Analista de Dados
